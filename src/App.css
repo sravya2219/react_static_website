@@ -1,0 +1,87 @@
+.leftheader{
+  display: flex;
+  height: 50px;
+  color: whitesmoke;
+  justify-content: space-around;
+  background-color: rgb(35, 33, 33);
+}
+.rightheader{
+ display: flex;
+  gap: 20px;
+
+}
+.leftnav{
+  color: rgb(18, 14, 14);
+   align-items: center;
+  height: 100px;
+  display: flex;
+  background-color: whitesmoke;
+  justify-content: space-around;
+}
+.rightnav{
+  display: flex;
+  gap:25px
+}
+.leftbanner{
+  display: flex;
+
+  align-items: center;
+  justify-content: space-around;
+  background-color: antiquewhite;
+}
+/* .banner{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+} */
+/* .products{
+ margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  
+}
+.product1,.product2,.product3,.product4,.product5{
+  border: 2px solid whitesmoke;
+}
+.top{
+   text-align: center;
+
+}
+#b1,#b2,#b3,#b4{
+  height: 50px;
+  width: 100px;
+}
+#b1{
+  background-color: red;
+}
+.bottomproducts{
+   margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.product6,.product7,.product8,.product9,.product10{
+  border: 2px solid whitesmoke;
+} */
+.blog{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  /* height: 400px;
+  width: 300px; */
+  gap: 10px;
+  border: 2px solid whitesmoke;
+}
+.bottom{
+  display: flex;
+ margin-top: 50px;
+ padding-left: 60px;
+  gap: 40px;
+}
+.bot{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
